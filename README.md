@@ -12,6 +12,6 @@ It also verifies if both numbers are equal to eachother, and if their sum is eve
 The project is available at: https://calculator-two-numbers.vercel.app/
 
 ![image](https://github.com/GHTassinari/CalculatorTwoNumbers/assets/102005103/c59a02d2-c446-4bc3-8b0a-6e87374d578d)
-![hippo](https://giphy.com/embed/F64De00Ej6vl721CFN)
-![hippo](https://giphy.com/embed/ptdr6eqFaC1tPmfE6f)
+![hippo](https://giphy.com/embed/F64De00Ej6vl721CFN/giphy.gif)
+![hippo](https://giphy.com/embed/ptdr6eqFaC1tPmfE6f/giphy.gif)
 
