@@ -8,6 +8,7 @@ Those calculations include:
 - Multiplication
 - Division
 - Rest of the division
+
 It also verifies if both numbers are equal to eachother, and if their sum is even or odd.
 The project is available at: https://calculator-two-numbers.vercel.app/
 
