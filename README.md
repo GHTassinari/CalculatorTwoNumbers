@@ -15,3 +15,4 @@ The project is available at: https://calculator-two-numbers.vercel.app/
 
 ![image](https://github.com/GHTassinari/CalculatorTwoNumbers/assets/102005103/c59a02d2-c446-4bc3-8b0a-6e87374d578d)
 
+![project-gif](https://https://github.com/GHTassinari/CalculatorTwoNumbers/tree/main/.github/first.gif)
